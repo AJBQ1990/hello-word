@@ -1,2 +1,4 @@
 # hello-word
-my first repository :)
+HI people, 
+
+I am doing a data viz course :)
